@@ -8,7 +8,7 @@ has271([1, 2, 7, 1]) ¡æ true
 has271([1, 2, 8, 1]) ¡æ false
 has271([2, 7, 1]) ¡æ true
  */
-public class has271 {
+public class b8_has271 {
 	public boolean has2711(int[] nums) {
 		  for(int i=0; i<nums.length-2; i++)
 		  {

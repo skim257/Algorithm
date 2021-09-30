@@ -8,7 +8,7 @@ arrayFront9([1, 2, 9, 3, 4]) ¡æ true
 arrayFront9([1, 2, 3, 4, 9]) ¡æ false
 arrayFront9([1, 2, 3, 4, 5]) ¡æ false
  */
-public class arrayFront9 {
+public class a9_arrayFront9 {
 	public boolean arrayFront91(int[] nums) {
 		  boolean check=false;
 		  if(nums.length>=4)

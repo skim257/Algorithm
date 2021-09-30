@@ -8,7 +8,7 @@ stringTimes("Hi", 2) ¡æ "HiHi"
 stringTimes("Hi", 3) ¡æ "HiHiHi"
 stringTimes("Hi", 1) ¡æ "Hi"
  */
-public class stringTimes {
+public class a1_stringTimes {
 	public String stringTimes1(String str, int n) {
 		  String tmp="";
 		  for(int i=0; i<n; i++)

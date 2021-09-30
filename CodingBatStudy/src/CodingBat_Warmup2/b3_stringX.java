@@ -7,7 +7,7 @@ stringX("xxHxix") ¡æ "xHix"
 stringX("abxxxcd") ¡æ "abcd"
 stringX("xabxxxcdx") ¡æ "xabcdx"
  */
-public class stringX {
+public class b3_stringX {
 	public String stringX1(String str) {
 		  String[] result=str.split("x");
 		  return str;

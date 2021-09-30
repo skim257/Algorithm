@@ -7,7 +7,7 @@ array123([1, 1, 2, 3, 1]) ¡æ true
 array123([1, 1, 2, 4, 1]) ¡æ false
 array123([1, 1, 2, 1, 2, 3]) ¡æ true
  */
-public class array123 {
+public class b1_array123 {
 	public boolean array1231(int[] nums) {
 		  for(int i=0; i<nums.length; i++)
 		  {

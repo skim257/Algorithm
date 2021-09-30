@@ -8,7 +8,7 @@ doubleX("axxbb") ¡æ true
 doubleX("axaxax") ¡æ false
 doubleX("xxxxx") ¡æ true
  */
-public class doubleX {
+public class a4_doubleX {
 	boolean doubleX1(String str) {
 		  if(str.equals("xx"))
 		  return true;

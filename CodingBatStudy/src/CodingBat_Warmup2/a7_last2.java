@@ -8,7 +8,7 @@ last2("hixxhi") ¡æ 1
 last2("xaxxaxaxx") ¡æ 1
 last2("axxxaaxx") ¡æ 2
  */
-public class last2 {
+public class a7_last2 {
 	public int last21(String str) {
 		  int f=0;
 		  if(str.length()<3)

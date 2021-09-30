@@ -8,7 +8,7 @@ stringMatch("xxcaazz", "xxbaaz") ¡æ 3
 stringMatch("abc", "abc") ¡æ 2
 stringMatch("abc", "axc") ¡æ 0
  */
-public class stringMatch {
+public class b2_stringMatch {
 	public int stringMatch1(String a, String b) {
 		  String a1="";
 		  String b1="";

@@ -2,7 +2,7 @@ package CodingBat_Warmup2;
 /*
  * 
  */
-public class noTriples {
+public class b7_noTriples {
 	public boolean noTriples1(int[] nums) {
 		  for(int i=0; i<nums.length-2; i++)
 		  {

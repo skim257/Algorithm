@@ -7,7 +7,7 @@ countXX("abcxx") ¡æ 1
 countXX("xxx") ¡æ 2
 countXX("xxxx") ¡æ 3
  */
-public class countXX {
+public class a3_countXX {
 	int countXX1(String str) {
 		  int a=0;
 		  return a; 

@@ -7,7 +7,7 @@ altPairs("kitten") ¡æ "kien"
 altPairs("Chocolate") ¡æ "Chole"
 altPairs("CodingHorror") ¡æ "Congrr"
  */
-public class altParis {
+public class b4_altParis {
 	public String altPairs1(String str) {
 		  String result="";
 		  for(int i=0; i<str.length(); i+=4)

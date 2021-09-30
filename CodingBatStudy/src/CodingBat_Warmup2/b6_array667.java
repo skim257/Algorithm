@@ -7,7 +7,7 @@ array667([6, 6, 2]) ¡æ 1
 array667([6, 6, 2, 6]) ¡æ 1
 array667([6, 7, 2, 6]) ¡æ 1
  */
-public class array667 {
+public class b6_array667 {
 	public int array6671(int[] nums) {
 		  int count=0;
 		  for(int i=0; i<nums.length-1; i++)

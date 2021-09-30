@@ -8,7 +8,7 @@ stringSplosion("Code") ¡æ "CCoCodCode"
 stringSplosion("abc") ¡æ "aababc"
 stringSplosion("ab") ¡æ "aab"
  */
-public class stringSplosion {
+public class a6_stringSplosion {
 	public String stringSplosion1(String str) {
 		  String tmp="";
 		  for(int i=0; i<str.length()+1; i++)

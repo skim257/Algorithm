@@ -8,7 +8,7 @@ stringBits("Hello") ¡æ "Hlo"
 stringBits("Hi") ¡æ "H"
 stringBits("Heeololeo") ¡æ "Hello"
  */
-public class stringBits {
+public class a5_stringBits {
 	public String stringBits1(String str) {
 		  return str;
 	}

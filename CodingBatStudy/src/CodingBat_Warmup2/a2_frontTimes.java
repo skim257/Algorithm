@@ -7,7 +7,7 @@ frontTimes("Chocolate", 2) ¡æ "ChoCho"
 frontTimes("Chocolate", 3) ¡æ "ChoChoCho"
 frontTimes("Abc", 3) ¡æ "AbcAbcAbc"
  */
-public class frontTimes {
+public class a2_frontTimes {
 	public String frontTimes1(String str, int n) {
 		  String tmp="";
 		  for(int i=0; i<n; i++)

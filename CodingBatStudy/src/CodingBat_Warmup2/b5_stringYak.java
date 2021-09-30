@@ -8,7 +8,7 @@ stringYak("yakpak") ¡æ "pak"
 stringYak("pakyak") ¡æ "pak"
 stringYak("yak123ya") ¡æ "123ya"
  */
-public class stringYak {
+public class b5_stringYak {
 	public String stringYak1(String str) {
 		  String result="";
 		  for(int i=0; i<str.length(); i++)

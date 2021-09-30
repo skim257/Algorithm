@@ -10,7 +10,7 @@ arrayCount9([1, 2, 9]) ¡æ 1
 arrayCount9([1, 9, 9]) ¡æ 2
 arrayCount9([1, 9, 9, 3, 9]) ¡æ 3
  */
-public class arrayCount9 {
+public class a8_arrayCount9 {
 	public int arrayCount91(int[] nums) {
 		  return Arrays.asList(nums).indexOf(9);
 	}
