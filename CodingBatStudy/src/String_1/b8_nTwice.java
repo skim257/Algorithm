@@ -7,7 +7,7 @@ nTwice("Hello", 2) ¡æ "Helo"
 nTwice("Chocolate", 3) ¡æ "Choate"
 nTwice("Chocolate", 1) ¡æ "Ce"
  */
-public class nTwice {
+public class b8_nTwice {
 	public String nTwice1(String str, int n) {
 		  String first=str.substring(0,n);
 		  String second=str.substring(str.length()-n);

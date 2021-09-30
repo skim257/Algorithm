@@ -7,7 +7,7 @@ theEnd("Hello", true) ¡æ "H"
 theEnd("Hello", false) ¡æ "o"
 theEnd("oh", true) ¡æ "o"
  */
-public class theEnd {
+public class b4_theEnd {
 	public String theEnd1(String str, boolean front) {
 		  if(front==true)
 		  return str.substring(0,1);

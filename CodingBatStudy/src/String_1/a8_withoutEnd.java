@@ -8,7 +8,7 @@ withoutEnd("Hello") ¡æ "ell"
 withoutEnd("java") ¡æ "av"
 withoutEnd("coding") ¡æ "odin"
  */
-public class withoutEnd {
+public class a8_withoutEnd {
 	public String withoutEnd1(String str) {
 		  return str.substring(1,str.length()-1);
 	}

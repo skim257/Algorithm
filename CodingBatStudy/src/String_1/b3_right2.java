@@ -7,7 +7,7 @@ right2("Hello") ¡æ "loHel"
 right2("java") ¡æ "vaja"
 right2("Hi") ¡æ "Hi"
  */
-public class right2 {
+public class b3_right2 {
 	public String right21(String str) {
 		  return str.substring(str.length()-2)+
 		          str.substring(0,str.length()-2);

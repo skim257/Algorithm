@@ -8,7 +8,7 @@ endsLy("oddly") ¡æ true
 endsLy("y") ¡æ false
 endsLy("oddy") ¡æ false
  */
-public class endsLy {
+public class b7_endsLy {
 	public boolean endsLy1(String str) {
 		  if(str.length()>1)
 		  {

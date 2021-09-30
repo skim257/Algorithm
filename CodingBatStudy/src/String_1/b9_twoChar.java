@@ -8,7 +8,7 @@ twoChar("java", 0) ¡æ "ja"
 twoChar("java", 2) ¡æ "va"
 twoChar("java", 3) ¡æ "ja"
  */
-public class twoChar {
+public class b9_twoChar {
 	public String twoChar1(String str, int index) {
 		  int a=Math.abs(index);
 		  

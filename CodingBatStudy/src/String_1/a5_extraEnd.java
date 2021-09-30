@@ -8,7 +8,7 @@ extraEnd("Hello") ¡æ "lololo"
 extraEnd("ab") ¡æ "ababab"
 extraEnd("Hi") ¡æ "HiHiHi"
  */
-public class extraEnd {
+public class a5_extraEnd {
 	public String extraEnd1(String str) {
 
 

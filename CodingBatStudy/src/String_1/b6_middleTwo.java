@@ -8,7 +8,7 @@ middleTwo("string") ¡æ "ri"
 middleTwo("code") ¡æ "od"
 middleTwo("Practice") ¡æ "ct"
  */
-public class middleTwo {
+public class b6_middleTwo {
 	public String middleTwo1(String str) {
 		  return str.substring(str.length()/2-1,str.length()/2+1);	  
 	}

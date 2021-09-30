@@ -8,7 +8,7 @@ firstHalf("WooHoo") ¡æ "Woo"
 firstHalf("HelloThere") ¡æ "Hello"
 firstHalf("abcdef") ¡æ "abc"
  */
-public class firstHalf {
+public class a7_firstHalf {
 	public String firstHalf1(String str) {
 		  return str.substring(0,str.length()/2);
 	}

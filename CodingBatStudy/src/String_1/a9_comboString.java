@@ -8,7 +8,7 @@ comboString("Hello", "hi") ¡æ "hiHellohi"
 comboString("hi", "Hello") ¡æ "hiHellohi"
 comboString("aaa", "b") ¡æ "baaab"
  */
-public class comboString {
+public class a9_comboString {
 	public String comboString1(String a, String b) {
 		  if(a.length()>b.length())
 		  return b+a+b;

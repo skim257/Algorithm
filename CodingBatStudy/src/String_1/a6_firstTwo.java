@@ -8,7 +8,7 @@ firstTwo("Hello") ¡æ "He"
 firstTwo("abcdefg") ¡æ "ab"
 firstTwo("ab") ¡æ "ab"
  */
-public class firstTwo {
+public class a6_firstTwo {
 	public String firstTwo1(String str) {
 		  if(str.length()>2)
 		  return str.substring(0,2);

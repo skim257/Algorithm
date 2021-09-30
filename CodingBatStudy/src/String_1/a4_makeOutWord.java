@@ -8,7 +8,7 @@ makeOutWord("<<>>", "Yay") ¡æ "<<Yay>>"
 makeOutWord("<<>>", "WooHoo") ¡æ "<<WooHoo>>"
 makeOutWord("[[]]", "word") ¡æ "[[word]]"
  */
-public class makeOutWord {
+public class a4_makeOutWord {
 	public String makeOutWord1(String out, String word) {
 		  String front=out.substring(0,2);
 		  String back=out.substring(2,out.length());

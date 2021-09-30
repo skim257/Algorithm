@@ -8,7 +8,7 @@ left2("Hello") ¡æ "lloHe"
 left2("java") ¡æ "vaja"
 left2("Hi") ¡æ "Hi"
  */
-public class left2 {
+public class b2_left2 {
 	public String left21(String str) {
 		  String front=str.substring(0,2);
 		  if(str.length()>2)

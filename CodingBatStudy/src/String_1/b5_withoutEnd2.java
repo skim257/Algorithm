@@ -8,7 +8,7 @@ withouEnd2("Hello") ¡æ "ell"
 withouEnd2("abc") ¡æ "b"
 withouEnd2("ab") ¡æ ""
  */
-public class withoutEnd2 {
+public class b5_withoutEnd2 {
 	public String withouEnd2(String str) {
 		  if(str.length()<2)
 		  return "";

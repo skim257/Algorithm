@@ -8,7 +8,7 @@ makeAbba("Hi", "Bye") ¡æ "HiByeByeHi"
 makeAbba("Yo", "Alice") ¡æ "YoAliceAliceYo"
 makeAbba("What", "Up") ¡æ "WhatUpUpWhat"
  */
-public class makeAbba {
+public class a2_makeAbba {
 	public String makeAbba1(String a, String b) {
 		  return a+b+b+a;
 	}
