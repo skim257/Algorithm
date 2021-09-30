@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class startHi {
+public class b7_startHi {
 	public boolean startHi1(String str) {
 		  if(str.startsWith("hi"))
 		    return true;

@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class monkeyTrouble {
+public class a2_monkeyTrouble {
 	public boolean monkeyTrouble1(boolean aSmile, boolean bSmile) {
 		  if(aSmile == bSmile)
 		  {

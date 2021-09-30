@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class frontBack {
+public class b2_frontBack {
 	public String frontBack1(String str) {
 		  if(str.length()>1)
 		  {

@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class icyHot {
+public class b8_icyHot {
 	public boolean icyHot1(int temp1, int temp2) {
 		  if(temp1<0 && temp2>100)
 		    return true;

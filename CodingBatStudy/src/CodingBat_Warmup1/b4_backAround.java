@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
  
-public class backAround {
+public class b4_backAround {
 	public String backAround1(String str) {
 		  
 	    char tmp=str.charAt(str.length()-1);

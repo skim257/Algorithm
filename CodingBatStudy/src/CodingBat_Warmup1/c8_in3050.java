@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class in3050 {
+public class c8_in3050 {
 	public boolean in30501(int a, int b) {
 		  if((a>=30&&a<=40)&&(b>=30&&b<=40))
 		    return true;

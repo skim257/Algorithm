@@ -8,7 +8,7 @@ endUp("Hello") ¡æ "HeLLO"
 endUp("hi there") ¡æ "hi thERE"
 endUp("hi") ¡æ "HI"
  */
-public class endUp {
+public class d3_endUp {
 	public String endUp1(String str) {
 		  if(str.length()<3)
 		  return str.toUpperCase();

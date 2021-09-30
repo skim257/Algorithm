@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class diff21 {
+public class a4_diff21 {
 	public int diff211(int n) {
 		  int dif =0;
 		  if(n<=21)

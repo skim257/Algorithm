@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class max1020 {
+public class c9_max1020 {
 	public int max10201(int a, int b) {
 		int tmp=0;
 		  if((a>=10&&a<=20)&&(b>=10&&b<=20))

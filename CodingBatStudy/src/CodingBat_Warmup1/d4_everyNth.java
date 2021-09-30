@@ -8,7 +8,7 @@ everyNth("Miracle", 2) ¡æ "Mrce"
 everyNth("abcdefg", 2) ¡æ "aceg"
 everyNth("abcdefg", 3) ¡æ "adg"
  */
-public class everyNth {
+public class d4_everyNth {
 	public String everyNth1(String str, int n) {
 		  int count=0;
 		  for(int i=0; i<str.length(); i=i+n)

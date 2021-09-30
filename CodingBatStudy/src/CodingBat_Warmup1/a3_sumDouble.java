@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class sumDouble {
+public class a3_sumDouble {
 	public int sumDouble1(int a, int b) {
 		  int sum = 0;
 		  if(a==b)

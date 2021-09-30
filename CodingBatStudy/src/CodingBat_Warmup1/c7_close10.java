@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class close10 {
+public class c7_close10 {
 	public int close101(int a, int b) {
 		  int tmp1=(Math.abs(10-a));
 		  int tmp2=(Math.abs(10-b));

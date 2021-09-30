@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class startOz {
+public class c5_startOz {
 	public String startOz1(String str) {
 		  if(str.length()>2||str.substring(0,2).equals("oz"))
 		    return "oz";

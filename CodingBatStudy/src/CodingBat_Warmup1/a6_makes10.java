@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class makes10 {
+public class a6_makes10 {
 	public boolean makes101(int a, int b) {
 		  if(a==10 || b==10) 
 		  {

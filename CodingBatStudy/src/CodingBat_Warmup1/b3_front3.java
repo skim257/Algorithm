@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class front3 {
+public class b3_front3 {
 	public String front31(String str) {
 		  if(str.length()>3)
 		  {

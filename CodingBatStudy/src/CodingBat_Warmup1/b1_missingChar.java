@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class missingChar {
+public class b1_missingChar {
 	public String missingChar1(String str, int n) {
 		  str="kitten";
 		  for(int i=0; i<str.length()-1; i++)

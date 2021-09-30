@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class mixStart {
+public class c4_mixStart {
 	public boolean mixStart1(String str) {
 		  if(str.contains("ix"))
 		    return true;

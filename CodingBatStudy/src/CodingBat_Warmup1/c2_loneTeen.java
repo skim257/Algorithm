@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class loneTeen {
+public class c2_loneTeen {
 	public boolean loneTeen1(int a, int b) {
 		  if((a>=13&&a<=19)&&(b>=13&&b<=19))
 		    return false;

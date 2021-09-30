@@ -8,7 +8,7 @@ stringE("Hello") ¡æ true
 stringE("Heelle") ¡æ true
 stringE("Heelele") ¡æ false
  */
-public class stringE {
+public class d1_stringE {
 	public boolean stringE1(String str) {
 		  if(str.length()>7)
 		  return false;

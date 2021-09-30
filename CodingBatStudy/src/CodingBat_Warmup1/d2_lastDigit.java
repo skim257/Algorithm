@@ -8,7 +8,7 @@ lastDigit(7, 17) ¡æ true
 lastDigit(6, 17) ¡æ false
 lastDigit(3, 113) ¡æ true
  */
-public class lastDigit {
+public class d2_lastDigit {
 	public boolean lastDigit1(int a, int b) {
 		  return (a%10==b%10);
 	}

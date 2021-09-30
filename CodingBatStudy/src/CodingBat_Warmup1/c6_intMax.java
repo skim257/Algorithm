@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class intMax {
+public class c6_intMax {
 	public int intMax1(int a, int b, int c) {
 		  if(a>b&&a>c)
 		    return a;

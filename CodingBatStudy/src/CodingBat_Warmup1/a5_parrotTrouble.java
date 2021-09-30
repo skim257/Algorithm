@@ -1,6 +1,6 @@
 package CodingBat_Warmup1;
 
-public class parrotTrouble {
+public class a5_parrotTrouble {
 	public boolean parrotTrouble1(boolean talking, int hour) {
 		  return (talking && (hour < 7 || hour>20));
 	}
