@@ -1,0 +1,16 @@
+package Array_1;
+/*Array-1 > plusTwo
+Given 2 int arrays, each length 2, return a new array length 4 containing all their elements.
+plusTwo([1, 2], [3, 4]) ¡æ [1, 2, 3, 4]
+plusTwo([4, 4], [2, 2]) ¡æ [4, 4, 2, 2]
+plusTwo([9, 2], [3, 4]) ¡æ [9, 2, 3, 4]*/
+public class c2_plusTwo {
+	public int[] plusTwo(int[] a, int[] b) {
+		  return new int[] {a[0], a[1], b[0], b[1]};
+		}
+
+	// Solution
+    public int[] splusTwo(int[] a, int[] b) {
+        return new int[]{a[0], a[1], b[0], b[1]};
+    }
+}
