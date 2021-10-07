@@ -4,7 +4,7 @@ We'll say that a String is xy-balanced if for all the 'x' chars in the string, t
 So "xxy" is balanced, but "xyx" is not. One 'y' can balance multiple 'x's. Return true if the given string is xy-balanced.
 xyBalance("aaxbby") ¡æ true
 xyBalance("aaxbb") ¡æ false
-xyBalance("yaaxbb") ¡æ false*/
+xyBalance("yaaxbb") ¡æ false*/ 
 public class a8_xyBalance { 
 	public boolean xyBalance(String str) {
 		  // int[] x=indexOf("x");
