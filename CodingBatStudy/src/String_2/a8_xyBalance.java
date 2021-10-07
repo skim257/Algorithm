@@ -5,7 +5,7 @@ So "xxy" is balanced, but "xyx" is not. One 'y' can balance multiple 'x's. Retur
 xyBalance("aaxbby") ¡æ true
 xyBalance("aaxbb") ¡æ false
 xyBalance("yaaxbb") ¡æ false*/
-public class a8_xyBalance {
+public class a8_xyBalance { 
 	public boolean xyBalance(String str) {
 		  // int[] x=indexOf("x");
 		  // int[] y=indexOf("y");
