@@ -8,6 +8,21 @@ import java.util.StringTokenizer;
 첫째 줄에 테스트 케이스의 개수 T가 주어진다.
 각 테스트 케이스는 한 줄로 이루어져 있으며, 각 줄에 A와 B가 주어진다. A와 B는 콤마(,)로 구분되어 있다. (0 < A, B < 10)
 각 테스트 케이스마다 A+B를 출력한다.
+
+예제 입력
+5
+1,1
+2,3
+3,4
+9,8
+5,2
+
+출력
+2
+5
+7
+17
+7
  */
 public class a7_10953 {
     public static void main(String[] args) {
