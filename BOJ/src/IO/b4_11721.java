@@ -13,6 +13,7 @@ import java.util.Scanner;
 예제
 입력
 BaekjoonOnlineJudge
+
 출력
 BaekjoonOn
 lineJudge

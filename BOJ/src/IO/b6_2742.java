@@ -10,6 +10,7 @@ import java.util.Scanner;
 예제
 입력
 5
+
 출력
 5
 4
