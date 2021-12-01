@@ -8,6 +8,16 @@ import java.util.Scanner;
 하지만, 오른쪽을 기준으로 정렬한 별(예제 참고)을 출력하시오.
 첫째 줄에 N(1 ≤ N ≤ 100)이 주어진다.
 첫째 줄부터 N번째 줄까지 차례대로 별을 출력한다.
+
+예제
+입력
+5
+출력
+*****
+ ****
+  ***
+   **
+    *
  */
 public class c5_2441 {
     public static void main(String[] args) {
